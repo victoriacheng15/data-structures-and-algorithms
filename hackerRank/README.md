@@ -16,5 +16,6 @@
 | 10 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Solution](problem-solving/010-grading-stduents.test.js) |
 | 11 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution](problem-solving/011-apple-and-orange.test.js) |
 | 12 | [Number Line Jump](https://www.hackerrank.com/challenges/kangaroo/problem?) | [Solution](problem-solving/012-number-line-jump.test.js) |
+| 12 | [Bwteeen Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solution](problem-solving/013-between-two-sets.test.js) |
 
 
