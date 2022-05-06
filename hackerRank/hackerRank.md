@@ -2,6 +2,8 @@
 
 [Back to README.md](/README.md)
 
+## General Practice
+
 | Number | Question | Solution & Test | 
 |:---:|:---|:---:|
 | 1 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](/hackerRank/001-simple-array-sum.test.js) |
@@ -18,6 +20,15 @@
 | 12 | [Number Line Jump](https://www.hackerrank.com/challenges/kangaroo/problem?) | [Solution](/hackerRank/012-number-line-jump.test.js) |
 | 13 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solution](/hackerRank/013-between-two-sets.test.js) |
 | 14 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](/hackerRank/014-arrays-ds.test.js) |
+
+## Interview Preparation Kit
+
+[the Interview prepartion kit](https://www.hackerrank.com/interview/interview-preparation-kit)
+
+| Number | Question | Solution & Test | type |
+|:---:|:---|:---:|:---:|
+| 1 | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](/hackerRank/interview-prep-kit/001-sales-by-match.test.js) | warm-up |
+| 2 | [Counting Valley](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup&h_r=next-challenge&h_v=zen) | [Solution](/hackerRank/interview-prep-kit/002-counting-valley.test.js) | warm-up |
 
 
 [Back to README.md](/README.md)
