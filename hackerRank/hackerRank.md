@@ -1,9 +1,9 @@
 # Hacker Rank
 
-## Problem Solving
+[Back to README.md](/README.md)
 
 | Number | Question | Solution & Test | 
-|:---:|:---|:---|
+|:---:|:---|:---:|
 | 1 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](/hackerRank/001-simple-array-sum.test.js) |
 | 2 | [Compare the Triplet](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](/hackerRank/002-compare-the-triplets.test.js) |
 | 3 | [A Very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](/hackerRank/003-a-very-big-sum.test.js) |
@@ -20,4 +20,4 @@
 | 14 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](/hackerRank/014-arrays-ds.test.js) |
 
 
-
+[Back to README.md](/README.md)
