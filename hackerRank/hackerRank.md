@@ -29,6 +29,7 @@
 |:---:|:---|:---:|:---:|
 | 1 | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](/hackerRank/interview-prep-kit/001-sales-by-match.test.js) | warm-up |
 | 2 | [Counting Valley](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup&h_r=next-challenge&h_v=zen) | [Solution](/hackerRank/interview-prep-kit/002-counting-valley.test.js) | warm-up |
+| 3 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](/hackerRank/interview-prep-kit/003-repeated-string.test.js) | warm-up |
 
 
 [Back to README.md](/README.md)
