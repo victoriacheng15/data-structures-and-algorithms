@@ -1,6 +1,9 @@
 # Hacker Rank
 
-[Back to README.md](/README.md)
+
+- [Hacker Rank](#hacker-rank)
+  - [General Practice](#general-practice)
+  - [Interview Preparation Kit](#interview-preparation-kit)
 
 ## General Practice
 
@@ -21,15 +24,24 @@
 | 13 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solution](/hackerRank/013-between-two-sets.test.js) |
 | 14 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](/hackerRank/014-arrays-ds.test.js) |
 
+[Back to README.md](/README.md)
+
+---
+
 ## Interview Preparation Kit
 
-[the Interview prepartion kit](https://www.hackerrank.com/interview/interview-preparation-kit)
+[The Interview prepartion kit on HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit)
 
 | Number | Question | Solution & Test | type |
 |:---:|:---|:---:|:---:|
 | 1 | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](/hackerRank/interview-prep-kit/001-sales-by-match.test.js) | warm-up |
 | 2 | [Counting Valley](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup&h_r=next-challenge&h_v=zen) | [Solution](/hackerRank/interview-prep-kit/002-counting-valley.test.js) | warm-up |
 | 3 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](/hackerRank/interview-prep-kit/003-repeated-string.test.js) | warm-up |
+| 4 | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](/hackerRank/interview-prep-kit/004-jumping-on-the-clouds.test.js) | warm-up |
+| 5 | [2D Arrays - DS](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Solution](/hackerRank/interview-prep-kit/005-2d-array-ds.test.js) | arrays |
+| 5 | [Arrays Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Solution](/hackerRank/interview-prep-kit/006-arrays-left-rotation.test.js) | arrays |
 
 
 [Back to README.md](/README.md)
+
+---
