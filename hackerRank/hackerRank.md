@@ -39,7 +39,8 @@
 | 3 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](/hackerRank/interview-prep-kit/003-repeated-string.test.js) | warm-up |
 | 4 | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](/hackerRank/interview-prep-kit/004-jumping-on-the-clouds.test.js) | warm-up |
 | 5 | [2D Arrays - DS](https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Solution](/hackerRank/interview-prep-kit/005-2d-array-ds.test.js) | arrays |
-| 5 | [Arrays Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Solution](/hackerRank/interview-prep-kit/006-arrays-left-rotation.test.js) | arrays |
+| 6 | [Arrays Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Solution](/hackerRank/interview-prep-kit/006-arrays-left-rotation.test.js) | arrays |
+| 7 | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Solution](/hackerRank/interview-prep-kit/007-new-year-chaos.test.js) | arrays |
 
 
 [Back to README.md](/README.md)
