@@ -42,6 +42,7 @@
 | 6 | [Arrays Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Solution](/hackerRank/interview-prep-kit/006-arrays-left-rotation.test.js) | arrays |
 | 7 | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Solution](/hackerRank/interview-prep-kit/007-new-year-chaos.test.js) | arrays |
 | 8 | [Hash tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | [Solution](/hackerRank/interview-prep-kit/008-ransom-note.test.js) | dictionaries and hashmaps |
+| 9 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | [Solution](/hackerRank/interview-prep-kit/009-two-strings.test.js) | dictionaries and hashmaps |
 
 
 [Back to README.md](/README.md)
