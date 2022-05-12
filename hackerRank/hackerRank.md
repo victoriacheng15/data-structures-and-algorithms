@@ -43,6 +43,7 @@
 | 7 | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Solution](/hackerRank/interview-prep-kit/007-new-year-chaos.test.js) | arrays |
 | 8 | [Hash tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | [Solution](/hackerRank/interview-prep-kit/008-ransom-note.test.js) | dictionaries and hashmaps |
 | 9 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | [Solution](/hackerRank/interview-prep-kit/009-two-strings.test.js) | dictionaries and hashmaps |
+| 10 | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) | [Solution](/hackerRank/interview-prep-kit/010-mark-and-toys.test.js) | sorting |
 
 
 [Back to README.md](/README.md)
