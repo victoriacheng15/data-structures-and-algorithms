@@ -45,6 +45,7 @@
 | 9 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | [Solution](/hackerRank/interview-prep-kit/009-two-strings.test.js) | dictionaries and hashmaps |
 | 10 | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) | [Solution](/hackerRank/interview-prep-kit/010-mark-and-toys.test.js) | sorting |
 | 11 | [Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) | [Solution](/hackerRank/interview-prep-kit/011-bubble-sort.test.js) | sorting |
+| 12 | [Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings) | [Solution](/hackerRank/interview-prep-kit/011-bubble-sort.test.js) | sorting |
 
 
 [Back to README.md](/README.md)
