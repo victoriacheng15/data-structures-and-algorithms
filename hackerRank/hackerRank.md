@@ -23,8 +23,9 @@
 | 12 | [Number Line Jump](https://www.hackerrank.com/challenges/kangaroo/problem?) | [Solution](/hackerRank/012-number-line-jump.test.js) |
 | 13 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solution](/hackerRank/013-between-two-sets.test.js) |
 | 14 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](/hackerRank/014-arrays-ds.test.js) |
-| 14 | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=false) | [Solution](/hackerRank/015-left-rotation.test.js) |
-| 15 | [Print Elements of a Linked List ](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](/hackerRank/016-print-the-elements-of-a-linked-list.test.js) |
+| 15 | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=false) | [Solution](/hackerRank/015-left-rotation.test.js) |
+| 16 | [Print Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](/hackerRank/016-print-the-elements-of-a-linked-list.test.js) |
+| 17 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Solution](/hackerRank/017-divisible-sum-pairs.test.js) |
 
 [Back to README.md](/README.md)
 
