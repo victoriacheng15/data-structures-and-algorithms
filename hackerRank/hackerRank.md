@@ -29,6 +29,7 @@
 | 18 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Solution](/hackerRank/018-subarray-division.test.js) |
 | 19 | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=false) | [Solution](/hackerRank/019-find-digits.test.js) |
 | 20 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [Solution](/hackerRank/020-viral-advertising.test.js) |
+| 21 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=false) | [Solution](/hackerRank/021-day-of-the-programmer.test.js) |
 
 [Back to README.md](/README.md)
 
