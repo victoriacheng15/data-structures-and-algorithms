@@ -31,6 +31,7 @@
 | 20 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [Solution](/hackerRank/020-viral-advertising.test.js) |
 | 21 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=false) | [Solution](/hackerRank/021-day-of-the-programmer.test.js) |
 | 22 | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Solution](/hackerRank/022-bill-divison.test.js) |
+| 22 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=false) | [Solution](/hackerRank/023-picking-numbers.test.js) |
 
 [Back to README.md](/README.md)
 
