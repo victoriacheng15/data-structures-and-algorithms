@@ -61,7 +61,7 @@
 | 15 | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms) | [Solution](/hackerRank/interview-prep-kit/015-luck-balance.test.js) | greedy algorithms |
 | 16 | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | [Solution](/hackerRank/interview-prep-kit/016-sherlock-and-anagrams.test.js) | dictionaries and hashmaps |
 | 17 | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | [Solution](/hackerRank/interview-prep-kit/017-count-triplets.test.js) | dictionaries and hashmaps |
-| 1 | [Frquency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | [Solution](/hackerRank/interview-prep-kit/018-frequencu-queries.test.js) | dictionaries and hashmaps |
+| 18 | [Frquency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps) | [Solution](/hackerRank/interview-prep-kit/018-frequencu-queries.test.js) | dictionaries and hashmaps |
 
 
 [Back to README.md](/README.md)
