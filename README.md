@@ -1,4 +1,4 @@
-# Data Strcutures and Algorithms
+# Data Strcutures and Algorithms in JavaScript
 
 This a repo contains all my solutions for Hacker Rank and LeetCode.
 
@@ -21,9 +21,14 @@ describe('simple array sum', () => {
 });
 ```
 
-
-## Links to Markdown files
+## Solutions Link
 
 [Hacker Rank](/hackerRank/hackerRank.md)
 
 [LeetCode (this is empty for now)](/leetcode/leetcode.md)
+
+[Project Eular](/project-eular/README.md)
+
+## DS & Algo Note Links
+
+WIP
