@@ -9,30 +9,30 @@
 
 | Number | Question | Solution & Test | 
 |:---:|:---|:---:|
-| 1 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](/hackerRank/001-simple-array-sum.test.js) |
-| 2 | [Compare the Triplet](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](/hackerRank/002-compare-the-triplets.test.js) |
-| 3 | [A Very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](/hackerRank/003-a-very-big-sum.test.js) |
-| 4 | [Diagonal Differece](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Solution](/hackerRank/004-digonal-difference.test.js) |
-| 5 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution](/hackerRank/005-plus-minus.test.js) |
-| 6 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](/hackerRank/006-staircase.test.js) |
-| 7 | [Min-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](/hackerRank/007-mini-max-sum.test.js) |
-| 8 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](/hackerRank/008-birthday-cake-candles.test.js) |
-| 9 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](/hackerRank/009-time-conversion.test.js) |
-| 10 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Solution](/hackerRank/010-grading-stduents.test.js) |
-| 11 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution](/hackerRank/011-apple-and-orange.test.js) |
-| 12 | [Number Line Jump](https://www.hackerrank.com/challenges/kangaroo/problem?) | [Solution](/hackerRank/012-number-line-jump.test.js) |
-| 13 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solution](/hackerRank/013-between-two-sets.test.js) |
-| 14 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](/hackerRank/014-arrays-ds.test.js) |
-| 15 | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=false) | [Solution](/hackerRank/015-left-rotation.test.js) |
-| 16 | [Print Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](/hackerRank/016-print-the-elements-of-a-linked-list.test.js) |
-| 17 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Solution](/hackerRank/017-divisible-sum-pairs.test.js) |
-| 18 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Solution](/hackerRank/018-subarray-division.test.js) |
-| 19 | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=false) | [Solution](/hackerRank/019-find-digits.test.js) |
-| 20 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [Solution](/hackerRank/020-viral-advertising.test.js) |
-| 21 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=false) | [Solution](/hackerRank/021-day-of-the-programmer.test.js) |
-| 22 | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Solution](/hackerRank/022-bill-divison.test.js) |
-| 23 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=false) | [Solution](/hackerRank/023-picking-numbers.test.js) |
-| 24 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=false) | [Solution](/hackerRank/024-picking-numbers.test.js) |
+| 1 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](/hackerRank/solutions/001-simple-array-sum.test.js) |
+| 2 | [Compare the Triplet](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](/hackerRank/solutions/002-compare-the-triplets.test.js) |
+| 3 | [A Very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](/hackerRank/solutions/003-a-very-big-sum.test.js) |
+| 4 | [Diagonal Differece](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Solution](/hackerRank/solutions/004-digonal-difference.test.js) |
+| 5 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution](/hackerRank/solutions/005-plus-minus.test.js) |
+| 6 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](/hackerRank/solutions/006-staircase.test.js) |
+| 7 | [Min-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](/hackerRank/solutions/007-mini-max-sum.test.js) |
+| 8 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](/hackerRank/solutions/008-birthday-cake-candles.test.js) |
+| 9 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](/hackerRank/solutions/009-time-conversion.test.js) |
+| 10 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Solution](/hackerRank/solutions/010-grading-stduents.test.js) |
+| 11 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution](/hackerRank/solutions/011-apple-and-orange.test.js) |
+| 12 | [Number Line Jump](https://www.hackerrank.com/challenges/kangaroo/problem?) | [Solution](/hackerRank/solutions/012-number-line-jump.test.js) |
+| 13 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solution](/hackerRank/solutions/013-between-two-sets.test.js) |
+| 14 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](/hackerRank/solutions/014-arrays-ds.test.js) |
+| 15 | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=false) | [Solution](/hackerRank/solutions/015-left-rotation.test.js) |
+| 16 | [Print Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](/hackerRank/solutions/016-print-the-elements-of-a-linked-list.test.js) |
+| 17 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Solution](/hackerRank/solutions/017-divisible-sum-pairs.test.js) |
+| 18 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Solution](/hackerRank/solutions/018-subarray-division.test.js) |
+| 19 | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=false) | [Solution](/hackerRank/solutions/019-find-digits.test.js) |
+| 20 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem) | [Solution](/hackerRank/solutions/020-viral-advertising.test.js) |
+| 21 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=false) | [Solution](/hackerRank/solutions/021-day-of-the-programmer.test.js) |
+| 22 | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem) | [Solution](/hackerRank/solutions/022-bill-divison.test.js) |
+| 23 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=false) | [Solution](/hackerRank/solutions/023-picking-numbers.test.js) |
+| 24 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=false) | [Solution](/hackerRank/solutions/024-picking-numbers.test.js) |
 
 [Back to README.md](/README.md)
 
