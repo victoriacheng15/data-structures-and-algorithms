@@ -10,6 +10,8 @@
 //   return sortedStr === sortedStr2;
 // };
 
+// 115ms
+
 const isAnagram = function (s, t) {
   const map = {};
 
@@ -29,6 +31,8 @@ const isAnagram = function (s, t) {
 
   return true;
 };
+
+// 88ms
 
 describe('check for anagram', () => {
   it('should return true if all letters are the same', () => {
