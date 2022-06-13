@@ -3,8 +3,6 @@
  * @return {boolean}
  */
 
-const start = performance.now();
-
 // const containsDuplicate = function (nums) {
 //   const counts = {};
 //   for (const num of nums) {
