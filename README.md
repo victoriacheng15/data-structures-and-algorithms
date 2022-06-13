@@ -25,7 +25,7 @@ describe('simple array sum', () => {
 
 [Hacker Rank](/hackerRank/hackerRank.md)
 
-[LeetCode (this is empty for now)](/leetcode/leetcode.md)
+[LeetCode](/leetcode/leetcode.md)
 
 [Project Eular](/project-eular/README.md)
 
