@@ -16,5 +16,7 @@ module.exports = {
       { singleQuote: true, parser: 'flow', endOfLine: 'auto' },
     ],
     'no-console': 0,
+    'no-param-reassign': 0,
+    'no-unused-expressions': 0,
   },
 };
