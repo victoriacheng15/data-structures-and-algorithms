@@ -27,7 +27,7 @@ describe('simple array sum', () => {
 
 [LeetCode](/leetcode/leetcode.md)
 
-[Project Eular](/project-eular/README.md)
+[Project Euler](/project-euler/project-euler.md)
 
 ## DS & Algo Note Links
 
