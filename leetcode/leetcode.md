@@ -9,6 +9,7 @@
 | 003 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./solutions/003-contains-duplicate.test.js) |
 | 004 | [Group Anagram](https://leetcode.com/problems/group-anagrams/) | [Solution](./solutions/004-group-anagram.test.js) |
 | 005 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./solutions/005-longest-consecutive-sequence.test.js) |
+| 006 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./solutions/006-top-k-frequent-elements.test.js) |
 
 
 
