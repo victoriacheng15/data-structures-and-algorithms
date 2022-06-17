@@ -10,6 +10,7 @@
 | 004 | [Group Anagram](https://leetcode.com/problems/group-anagrams/) | [Solution](./solutions/004-group-anagram.test.js) |
 | 005 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./solutions/005-longest-consecutive-sequence.test.js) |
 | 006 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./solutions/006-top-k-frequent-elements.test.js) |
+| 007 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./solutions/006-top-k-frequent-elements.test.js) |
 
 
 
