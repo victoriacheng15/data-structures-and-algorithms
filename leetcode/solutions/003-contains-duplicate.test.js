@@ -36,7 +36,6 @@ const containsDuplicate = function (nums) {
 describe('check for duplicate', () => {
   it('should return true if any values is at least twice in the araray', () => {
     expect(containsDuplicate([1, 2, 3, 1])).toBeTruthy();
-    // expect(containsDuplicate([1, 2, 3, 1])).toEqual('');
   });
 
   it('should return false if any values only appears once', () => {
