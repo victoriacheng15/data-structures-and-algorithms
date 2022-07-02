@@ -15,6 +15,7 @@
 | 009 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/009-find-pivot-index.test.js) |
 | 010 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Solution](./solutions/010-isomorphic-strings.test.js) |
 | 011 | [Isomorphic Strings](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/011-is-subsequence.test.jss) |
+| 012 | [Isomorphic Strings](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./solutions/012-merged-two-sorted-lists.test.js) |
 
 
 
