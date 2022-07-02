@@ -14,9 +14,7 @@
 | 008 | [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Solution](./solutions/008-running-sum-of-1d-array.test.js) |
 | 009 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution](./solutions/009-find-pivot-index.test.js) |
 | 010 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Solution](./solutions/010-isomorphic-strings.test.js) |
-| 011 | [Isomorphic Strings](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/011-is-subsequence.test.jss) |
-| 012 | [Isomorphic Strings](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./solutions/012-merged-two-sorted-lists.test.js) |
-
-
+| 011 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/011-is-subsequence.test.jss) |
+| 012 | [Merged Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./solutions/012-merged-two-sorted-lists.test.js) |
 
 [Back to README.md](/README.md)
