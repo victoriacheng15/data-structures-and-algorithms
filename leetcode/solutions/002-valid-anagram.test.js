@@ -12,27 +12,45 @@
 
 // 115ms
 
+// const isAnagram = function (s, t) {
+//   const map = {};
+
+//   if (s.length !== t.length) return false;
+
+//   for (const letter of s) {
+//     map[letter] ? (map[letter] += 1) : (map[letter] = 1);
+//   }
+
+//   for (const char of t) {
+//     if (map[char]) {
+//       map[char] -= 1;
+//     } else {
+//       return false;
+//     }
+//   }
+
+//   return true;
+// };
+
+// 88ms
+
 const isAnagram = function (s, t) {
   const map = {};
-
   if (s.length !== t.length) return false;
 
   for (const letter of s) {
-    map[letter] ? (map[letter] += 1) : (map[letter] = 1);
+    map[letter] = (map[letter] || 0) + 1;
   }
 
   for (const char of t) {
-    if (map[char]) {
-      map[char] -= 1;
-    } else {
-      return false;
-    }
+    if (!map[char]) return false;
+    map[char] -= 1;
   }
 
   return true;
 };
 
-// 88ms
+// 101 ms
 
 describe('check for anagram', () => {
   it('should return true if all letters are the same', () => {
