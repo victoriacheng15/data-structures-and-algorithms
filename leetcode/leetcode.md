@@ -17,6 +17,4 @@
 | 011 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/011-is-subsequence.test.jss) |
 | 012 | [Merged Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./solutions/012-merged-two-sorted-lists.test.js) |
 
-
-
 [Back to README.md](/README.md)
