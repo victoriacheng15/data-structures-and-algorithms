@@ -16,5 +16,7 @@
 | 010 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Solution](./solutions/010-isomorphic-strings.test.js) |
 | 011 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/011-is-subsequence.test.jss) |
 | 012 | [Merged Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./solutions/012-merged-two-sorted-lists.test.js) |
+| 013 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./solutions/013-valid-parentheses.test.js) |
+
 
 [Back to README.md](/README.md)
