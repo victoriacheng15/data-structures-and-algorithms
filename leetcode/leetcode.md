@@ -18,7 +18,7 @@
 | 012 | [Merged Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./solutions/012-merged-two-sorted-lists.test.js) |
 | 013 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./solutions/013-valid-parentheses.test.js) |
 | 014 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](./solutions/014-search-insert-position.test.js) |
-| 015 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./solutions/015-climbing-stairs.test.jss) |
+| 015 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./solutions/015-climbing-stairs.test.js) |
 
 
 [Back to README.md](/README.md)
