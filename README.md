@@ -23,6 +23,8 @@ describe('simple array sum', () => {
 
 ## Solutions Link
 
+[CodeSignal](/codesignal/codesignal.md)
+
 [Hacker Rank](/hackerRank/hackerRank.md)
 
 [LeetCode](/leetcode/leetcode.md)
