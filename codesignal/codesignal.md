@@ -55,3 +55,58 @@ Note: sequence a0, a1, ..., an is considered to be a strictly increasing if a0 <
 After becoming famous, the CodeBots decided to move into a new building together. Each of the rooms has a different cost, and some of them are free, but there's a rumour that all the free rooms are haunted! Since the CodeBots are quite superstitious, they refuse to stay in any of the free rooms, or any of the rooms below any of the free rooms.
 
 [Solution](./solutions/intro/008-matrix-elements-sum.test.js)
+
+## 009 All Longest Strings
+
+Given an array of strings, return another array containing all of its longest strings.
+
+[Solution](./solutions/intro/009-all-longest-strings.test.js)
+
+## 010 Common Character Count
+
+Given two strings, find the number of common characters between them.
+
+[Solution](./solutions/intro/010-common-characater-count.test.js)
+
+## 011 Is Lucky
+
+Ticket numbers usually consist of an even number of digits. A ticket number is considered lucky if the sum of the first half of the digits is equal to the sum of the second half
+
+[Solution](./solutions/intro/011-is-lucky.test.js)
+
+## 012 Sort By Height
+
+Some people are standing in a row in a park. There are trees between them which cannot be moved. Your task is to rearrange the people by their heights in a non-descending order without moving the trees. People can be very tall!
+
+[Solution](./solutions/intro/012-sort-by-height.test.js)
+
+## 013 Reverse In Parenthese
+
+Write a function that reverses characters in (possibly nested) parentheses in the input string.
+
+Input strings will always be well-formed with matching ()s.
+
+[Solution](./solutions/intro/013-reverse-in-parentheses.test.js)
+
+## 014 Alternating Sum
+
+Several people are standing in a row and need to be divided into two teams. The first person goes into team 1, the second goes into team 2, the third goes into team 1 again, the fourth into team 2, and so on.
+
+You are given an array of positive integers - the weights of the people. Return an array of two integers, where the first element is the total weight of team 1, and the second element is the total weight of team 2 after the division is complete.
+
+[Solution](./solutions/intro/014-alternating-sums.test.js)
+
+
+## 015 Add border
+
+Given a rectangular matrix of characters, add a border of asterisks(*) to it.
+
+[Solution](./solutions/intro/015-add-border.test.js)
+
+## 016 Are Similar
+
+Two arrays are called similar if one can be obtained from another by swapping at most one pair of elements in one of the arrays.
+
+Given two arrays a and b, check whether they are similar.
+
+[Solution](./solutions/intro/016-are-similiar.test.js)
