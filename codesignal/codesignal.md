@@ -118,6 +118,17 @@ You are given an array of integers. On each move you are allowed to increase exa
 [Solution](./solutions/intro/017-array-change.test.js)
 
 ## 018 Palindrome Rearranging
+
 Given a string, find out if its characters can be rearranged to form a palindrome.
+
+[Solution](./solutions/intro/018-palindrome-rearranging.test.js)
+
+## 019 Are Equally Strong
+
+Call two arms equally strong if the heaviest weights they each are able to lift are equal.
+
+Call two people equally strong if their strongest arms are equally strong (the strongest arm can be both the right and the left), and so are their weakest arms.
+
+Given your and your friend's arms' lifting capabilities find out if you two are equally strong..
 
 [Solution](./solutions/intro/018-palindrome-rearranging.test.js)
